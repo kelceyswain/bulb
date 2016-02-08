@@ -7,7 +7,6 @@ To register your interest please append your name and email address to the follo
 | Name         | email address                                                   | github username |
 | ---          | ---                                                             | ---             |
 | Kelcey Swain | [kelcey.swain@bristol.ac.uk](mailto:kelcey.swain@bristol.ac.uk) | kelceyswain     |
-| Father Christmas | santa@northpole.com | santa |
 
 In order to do this you must *clone* the repository at [https://github.com/kelceyswain/bulb.git](https://github.com/kelceyswain/bulb.git). This will download a copy of everything on to your computer. Here you can edit anything and re-upload it back to the repository.
 
