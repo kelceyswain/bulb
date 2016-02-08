@@ -42,3 +42,5 @@ Once you have done this you will find that you also have in your `bulb` folder a
 ```bash 
 git pull
 ```
+
+Once you have done all of this you must download and install SuperCollider from [here](http://supercollider.github.io/download)
