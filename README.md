@@ -2,6 +2,8 @@
 ## Bristol University Laptop Band
 ### Directed by Dr. Kelcey Swain
 
+*It turns out that you need to email me your github username first. I tried to make it open access but it didn't work.*
+
 To register your interest please append your name and email address to the following table:
 
 | Name            | email address                                                   | github username |
