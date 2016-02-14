@@ -15,6 +15,7 @@ To register your interest please append your name and email address to the follo
 | Ping Bai	  | [hb14525@my.bristol.ac.uk](mailto:hb14525@my.bristol.ac.uk)	    | machupingu	  |	
 | Aaron Grice     | [ag14548@my.bristol.ac.uk](mailto:ag14548@my.bristol.ac.uk)     | GitGrice            |
 | Shaun Wood      | [sw14851@my.bristol.ac.uk](mailto:sw14851@my.bristol.ac.uk)     | shaunmight          |
+| Ellis Domenger-Boyce | [ed14537@my.bristol.ac.uk](mailto:ed14537@my.bristol.ac.uk) | ed14537 |
 
 In order to do this you must *clone* the repository at [https://github.com/kelceyswain/bulb.git](https://github.com/kelceyswain/bulb.git). This will download a copy of everything on to your computer. Here you can edit anything and re-upload it back to the repository.
 
