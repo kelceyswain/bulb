@@ -6,10 +6,10 @@
 
 To register your interest please append your name and email address to the following table:
 
-| Name                 | email address                                                   | github username     |
+| Name                 | a.k.a.                                                   | github username     |
 | ---                  | ---                                                             | ---                 |
 | Kelcey Swain         | MC Quelle Surprise                                              | kelceyswain         |
-| Harris Ferguson      | Harris Ferguson                                                 | harrisferguson      |
+| Harris Ferguson      | Emb-Harris-ment                                                 | harrisferguson      |
 | Mital Dodhia         | Mital D'oh Dear                                                 | immaculatepowerlord |
 | Dom McDonald         | Dom McDonald had a Farm                                         | DomMcDonald         |
 | Ping Bai             | Machu Pingu                                                     | machupingu          |
